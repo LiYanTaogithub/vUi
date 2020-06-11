@@ -1,24 +1,14 @@
 # vue-ui
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+## QuickStart
+```bash
+npm install vue-ui
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
+## usage
+```bash
+import vUi from 'vue-ui'
+import 'vue-ui/dist/vu-ui.css'
+Vue.use(vUi)
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
