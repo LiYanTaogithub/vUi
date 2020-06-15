@@ -58,7 +58,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-@import '../styles/_var.scss';
+@import '../../styles/_var.scss';
 $height: 42px;
 $font-size: 16px;
 $color: #606266;

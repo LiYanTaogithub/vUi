@@ -17,7 +17,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-@import '../styles/_var.scss';
+@import '../../styles/_var.scss';
 .vu-button-group{
   display: inline-flex;
   vertical-align: middle;
